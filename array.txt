@@ -11,6 +11,8 @@ public class ArrayListDemo {
 	  arr.add(89);
 	  arr.add(90);
 	  arr.add(95);
+	  arr.add(97);
+	  arr.add(99);
       
       System.out.println("Size of list: " + arr.size());
       for (Integer number : arr) {
